@@ -1,7 +1,6 @@
 # Git Workflow Implemented
 
 ## The following Git operations were performed:
-
 1) Initial repository creation.
 
 2) Initial commit with dataset loading script.
