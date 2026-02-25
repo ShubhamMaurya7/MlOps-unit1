@@ -1,15 +1,15 @@
 # Git Workflow Implemented
 
-The following Git operations were performed:
+## The following Git operations were performed:
 
-Initial repository creation.
+1) Initial repository creation.
 
-Initial commit with dataset loading script.
+2) Initial commit with dataset loading script.
 
-Creation of a new branch experiment-v1.
+3) Creation of a new branch experiment-v1.
 
-Addition of missing value analysis.
+4) Addition of missing value analysis.
 
-Merging experiment-v1 branch back into main.
+5) Merging experiment-v1 branch back into main.
 
-This workflow reflects a standard experimentation cycle in MLOps.
+6) This workflow reflects a standard experimentation cycle in MLOps.
